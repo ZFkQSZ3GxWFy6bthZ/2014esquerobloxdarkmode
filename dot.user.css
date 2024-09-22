@@ -60,8 +60,6 @@
 @var checkbox randomgame "🧩 RoPro | Toggle Random Game Dice" 0
 @var checkbox pin "🧩 RoGold | Toggle Pin Game Button" 1
 @preprocessor   stylus
-@downloadURL https://update.greasyfork.org/scripts/468904/2014-esque%20Roblox.user.css
-@updateURL https://update.greasyfork.org/scripts/468904/2014-esque%20Roblox.user.css
 ==/UserStyle== */
 @-moz-document url-prefix("https://www.roblox.com/") {
     /* 2014-esque, made with love by melo 💜💛 */
