@@ -6570,6 +6570,10 @@ if layout == dec or layout == apr {
     }
     @-moz-document url-prefix("https://www.roblox.com/games/") {
     /* Game Page */
+        .badge-image-container>img {
+            width: 80px !important;
+            height: 80px !important;
+        }
 if layout == june or layout == thirteen or layout == jan or layout == sep or layout == dec {
     .content {
         background-color: transparent !important;
@@ -12048,7 +12052,7 @@ if layout == apr {
 
     }
     }
-    @-moz-document url-prefix("https://www.roblox.com/groups/") {
+    @-moz-document url-prefix("https://www.roblox.com/groups/"), url-prefix("https://www.roblox.com/communities/") {
     /* Groups */
     .content {
         width: 990px;
